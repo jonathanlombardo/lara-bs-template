@@ -1,4 +1,4 @@
-<footer class="py-3">
+<footer class="py-3 bg-dark text-white">
   <div class="container d-flex justify-content-between">
 
     <nav>

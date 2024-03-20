@@ -1,4 +1,4 @@
-<header class="py-3">
+<header class="py-3 bg-primary text-white">
   <div class="container d-flex justify-content-between align-items-center">
 
     <span>NewProject Header</span>
