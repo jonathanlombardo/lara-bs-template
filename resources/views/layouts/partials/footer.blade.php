@@ -3,11 +3,9 @@
 
     <nav>
       <ul class="">
-        <li><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
+        <li><a href="{{env("APP_AUTHOR_GH", "Jibbo")}}">{{env("APP_AUTHOR", "Jibbo")}}'s GitHub</a></li>
       </ul>
     </nav>
-    <span>NewProject footer</span>
+    <span>Created by {{env("APP_AUTHOR", "Jibbo")}}</span>
   </div>
 </footer>
